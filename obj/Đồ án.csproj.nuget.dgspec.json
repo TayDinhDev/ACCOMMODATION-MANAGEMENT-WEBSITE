@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\Đồ án.csproj": {}
+  },
+  "projects": {
+    "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\Đồ án.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\Đồ án.csproj",
+        "projectName": "Đồ án",
+        "projectPath": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\Đồ án.csproj",
+        "packagesPath": "C:\\Users\\Saiokenki\\.nuget\\packages\\",
+        "outputPath": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saiokenki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "NToastNotify": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[8.4.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

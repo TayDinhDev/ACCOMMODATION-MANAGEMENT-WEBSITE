@@ -1,0 +1,765 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Saiokenki\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\Saiokenki\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Đồ án.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Đồ án.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\1.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\1.png",
+      "PackagePath": "staticwebassets\\admin\\Upload\\1.png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\10.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\11.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\12.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\13.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\13.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\14.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\14.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\2.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\2314950.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\2314950.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\271996.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\271996.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\3.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\397795.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\397795.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\4.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\5.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\6.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\7.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\8.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\859072.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\859072.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\9.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\Logo.png",
+      "PackagePath": "staticwebassets\\admin\\Upload\\Logo.png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\anhdaidien.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\anhdaidien.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\b-logo.png",
+      "PackagePath": "staticwebassets\\admin\\Upload\\b-logo.png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\b1 (1).png",
+      "PackagePath": "staticwebassets\\admin\\Upload\\b1 (1).png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\cccd mặt sau.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\cccd mặt sau.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\cccd.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\cccd.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\cccds.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\cccds.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\code.png",
+      "PackagePath": "staticwebassets\\admin\\Upload\\code.png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\logo.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\logo.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\matsaucancuoc.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\matsaucancuoc.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\mattruoccc.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\mattruoccc.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\momo.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\momo.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\nganhang.jpg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\nganhang.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\Upload\\social icon.svg",
+      "PackagePath": "staticwebassets\\admin\\Upload\\social icon.svg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\assets\\img\\bg-login.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg-login.png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\assets\\scss\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\base\\_base.scss"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\assets\\scss\\components\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\assets\\scss\\components\\_login.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\components\\_login.scss"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\assets\\scss\\config\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\config\\_variables.scss"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\assets\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\scss\\styles.scss"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\admin\\css\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\custom.css",
+      "PackagePath": "staticwebassets\\admin\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\media.css",
+      "PackagePath": "staticwebassets\\admin\\css\\media.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\admin\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\admin\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\admin\\css\\owl.theme.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\settings.css",
+      "PackagePath": "staticwebassets\\admin\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\admin\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\slick.css",
+      "PackagePath": "staticwebassets\\admin\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\splitting.css",
+      "PackagePath": "staticwebassets\\admin\\css\\splitting.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\css\\styleesh.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styleesh.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\admin\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\admin\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\admin\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\admin\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\backup.txt",
+      "PackagePath": "staticwebassets\\admin\\font\\backup.txt"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\admin\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\admin\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\admin\\font\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\admin\\font\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\admin\\font\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\admin\\font\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\admin\\font\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\admin\\font\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\admin\\font\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\admin\\font\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\admin\\font\\license\\license.pdf"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\my-icons-collection (46).zip",
+      "PackagePath": "staticwebassets\\admin\\font\\my-icons-collection (46).zip"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\font\\my-icons-collection.zip",
+      "PackagePath": "staticwebassets\\admin\\font\\my-icons-collection.zip"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\1.webp",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\1.webp"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\2.webp",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\2.webp"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\5.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\5.webp",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\5.webp"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\banner2-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\banner2-removebg-preview (1).png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\slider\\banner3-removebg-preview.png",
+      "PackagePath": "staticwebassets\\admin\\img\\slider\\banner3-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\acmeticker.js",
+      "PackagePath": "staticwebassets\\admin\\js\\acmeticker.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\admin\\js\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\app.js",
+      "PackagePath": "staticwebassets\\admin\\js\\app.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\baguetteBox.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\baguetteBox.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\admin\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\jquery-3.3.1.slim.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-3.3.1.slim.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\nice-select\\jquery-nice.js",
+      "PackagePath": "staticwebassets\\admin\\js\\nice-select\\jquery-nice.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\nice-select\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\admin\\js\\nice-select\\jquery.nice-select.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\rev-slider\\jquery.themepunch.plugins.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\rev-slider\\jquery.themepunch.plugins.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\rev-slider\\jquery.themepunch.revolution.js",
+      "PackagePath": "staticwebassets\\admin\\js\\rev-slider\\jquery.themepunch.revolution.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\rev-slider\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\rev-slider\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\scroll-out.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scroll-out.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\scroll-out.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scroll-out.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\scroll2Section.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scroll2Section.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\admin\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\daodiennguoidung\\anhchuyenkhoan.css",
+      "PackagePath": "staticwebassets\\daodiennguoidung\\anhchuyenkhoan.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\daodiennguoidung\\hoadon.css",
+      "PackagePath": "staticwebassets\\daodiennguoidung\\hoadon.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\daodiennguoidung\\main.js",
+      "PackagePath": "staticwebassets\\daodiennguoidung\\main.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\daodiennguoidung\\style.css",
+      "PackagePath": "staticwebassets\\daodiennguoidung\\style.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\daodiennguoidung\\styleform.css",
+      "PackagePath": "staticwebassets\\daodiennguoidung\\styleform.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\daodiennguoidung\\styles.css",
+      "PackagePath": "staticwebassets\\daodiennguoidung\\styles.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\daodiennguoidung\\thongbao.css",
+      "PackagePath": "staticwebassets\\daodiennguoidung\\thongbao.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HOC TAP\\ISPACE\\Đồ án Wed 2\\test đồ án\\Chính\\Đồ án\\Đồ án\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Đồ án.props",
+      "PackagePath": "build\\Đồ án.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Đồ án.props",
+      "PackagePath": "buildMultiTargeting\\Đồ án.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Đồ án.props",
+      "PackagePath": "buildTransitive\\Đồ án.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Đồ án.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
